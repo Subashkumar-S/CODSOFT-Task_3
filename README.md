@@ -13,6 +13,6 @@ This is a simple calculator app developed using React and CSS. It provides basic
 
 ## Demo
 
-You can try out the live demo of the Calculator App [here](https://your-demo-link.com).
+You can try out the live demo of the Calculator App [here](https://calculator-1c40d.web.app/).
 
 
